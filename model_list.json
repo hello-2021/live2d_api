@@ -1,8 +1,8 @@
 {
     "models": [
-        "tianyi",
         "Potion-Maker/Pio",
         "Potion-Maker/Tia",
+        "tianyi",
         "bilibili-live/22",
         "bilibili-live/33",
         [
